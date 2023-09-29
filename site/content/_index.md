@@ -1,18 +1,24 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: "I ♥ Bethnal Green"
+subtitle: Save our safer streets
+image: /img/obg_01.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: About
+    text: |
+      **I ♥ BETHNAL GREEN** is the online home of **Save Our Safer Streets**, a group of Bethnal Green residents who want to keep and improve the newly built pedestrian-friendly streets around Old Bethnal Green Road, Columbia Road and Arnold Circus.
+
+      Our much-loved new, safe streets and community spaces are being threatened with removal by Tower Hamlets Council, who ran two consultations to take out the £2 million of changes which were implemented in 2021.
+
+      Beyond the immediate campaign to save our new streets, parklets and community spaces, we will lobby the council to engage with all the residents in Bethnal Green to explore ways to make our public spaces better. Everyone wants to improve air quality and create safer streets for people to walk, talk and play on.
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+    heading: The Mayor has decided to totally reverse the Liveable Streets schemes in Bethnal Green
+    text: |
+      Lutfur Rahman has taken the most extreme, undemocratic and dangerous decision available to him. He has decided to rip out all the walking and cycling infrastructure in Bethnal Green. Our statement about this is on our News page.
+
+      This is not the end. We know we have public support for our cause and the overwhelming evidence too.
+
+      With the advice of our lawyers, we will monitor the legality of what the council has done. Our Crowd Justice page is open for donations. The more we receive, the more ready we are to act as necessary to protect our safer streets.
+      
 values:
     heading: Our values
     text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
